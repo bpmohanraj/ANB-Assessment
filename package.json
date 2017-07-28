@@ -1,15 +1,12 @@
 {
-  "name": "property-editor-control",
+  "name": "forex-rates",
   "version": "1.0.0",
-  "description": "Property Editor Control",
-  "main": "js/app.js",
+  "description": "Forex Rates",
+  "main": "forexrates.js",
   "directories": {
     "test": "tests"
   },
   "dependencies": {
-    "angular": "^1.6.5",
-    "angular-mocks": "^1.6.5",
-    "angular-ui-router": "^1.0.3",
     "async": "^2.5.0",
     "jasmine-core": "^2.6.4",
     "karma": "^1.7.0",

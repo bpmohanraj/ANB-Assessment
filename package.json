@@ -1,0 +1,32 @@
+{
+  "name": "property-editor-control",
+  "version": "1.0.0",
+  "description": "Property Editor Control",
+  "main": "js/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-mocks": "^1.6.5",
+    "angular-ui-router": "^1.0.3",
+    "async": "^2.5.0",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.1.0",
+    "prettyjson": "^1.2.1",
+    "prompt": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "karma-spec-reporter": "0.0.31"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testing": "karma start"
+  },
+  "author": "Mohanraj P",
+  "license": "MIT"
+}

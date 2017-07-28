@@ -1,0 +1,44 @@
+[
+    {
+      "name": "name",
+      "title": "Name",
+      "required": true,
+      "type": {
+        "view": "input"
+      }
+    },
+	{
+      "name": "age",
+      "title": "Age",
+      "required": true,
+      "type": {
+        "view": "number"
+      }
+    },
+    {
+      "name": "country",
+      "title": "Country",
+      "type": {
+        "view": "select",
+        "options": [
+          {"id": 0, "name": "India"},
+          {"id": 1, "name": "Canada"},
+          {"id": 2, "name": "USA"}
+        ]
+      }
+    },
+    {
+      "name": "agree",
+      "title": "I agreed the user policy's",
+      "type": {
+        "view": "checkbox"
+      }
+    },
+    {
+      "name": "comments",
+      "title": "Comments",
+      "type": {
+        "view": "textarea"
+      }
+    }
+]

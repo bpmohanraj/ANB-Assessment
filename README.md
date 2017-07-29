@@ -16,7 +16,7 @@ Execition of code:
 
 Go to the git clone folder and run the command window.
 Next download the defendency node packages by using below command in node command line:
-npm init
+npm install
 
 it will refer the package.json to download and update the node modules. For execution of this code async,request,prompt and prettyjson are needed.
 

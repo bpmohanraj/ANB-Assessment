@@ -16,3 +16,9 @@ Execition of code:
 Go to the git clone folder and run the command window. Next download the defendency node packages by using below command in node command line: npm install
 
 it will refer the package.json to download and update the node modules.
+
+Later on in node command line type: http-server -o
+
+it will redirecting to browser and open the directory/file list and you can select propertyeditor.html
+
+The property editor control output page will be appear.
